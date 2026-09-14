@@ -1183,5 +1183,3 @@ export function ForbiddenPage({ user, onLogout }) {
     </div>
   );
 }
-
-export { Layout };
