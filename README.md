@@ -37,4 +37,4 @@ npm run dev
 
 Данные сида переносят прежние условия финансирования в программы `Лизинг_Базовый` и `Лизинг_ТС_ЭЛЕКТРО/МЕБЕЛЬ_SALE`.
 
-Подробное ТЗ для внедрения в боевой кабинет (для разработчиков и Codex): [`docs/TZ-lizingovye-programmy.md`](docs/TZ-lizingovye-programmy.md).
+Логика работы функционала (без привязки к коду этого репозитория): [`docs/TZ-lizingovye-programmy.md`](docs/TZ-lizingovye-programmy.md).
